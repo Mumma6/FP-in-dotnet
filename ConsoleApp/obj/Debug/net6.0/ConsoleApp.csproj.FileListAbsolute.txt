@@ -13,3 +13,18 @@ C:\Users\marti\OneDrive\Skrivbord\kurser\advance c# linkedink FP\code\ConsoleApp
 C:\Users\marti\OneDrive\Skrivbord\kurser\advance c# linkedink FP\code\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
 C:\Users\marti\OneDrive\Skrivbord\kurser\advance c# linkedink FP\code\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\marti\OneDrive\Skrivbord\kurser\advance c# linkedink FP\code\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\bin\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\MartinPersson\Desktop\apps\c# consolapp\FP-in-dotnet\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
