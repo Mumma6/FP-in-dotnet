@@ -128,4 +128,15 @@ public class UnitTest1
     Assert.Equal(highBattery, highVal);
     Assert.Equal(totaltBatteryLevel, batteryVal);
   }
+
+  [Fact]
+  public void TestingMathHOF()
+  {
+    var sum = ConsoleApp.Math.Eval("1 3 +");
+
+    var sum2 = ConsoleApp.Math.Eval("4 2 -");
+
+    Assert.Equal(sum, 4);
+    Assert.Equal(sum2, 2);
+  }
 }
